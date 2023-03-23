@@ -15,6 +15,9 @@ namespace ExemploBom
 
             lobo.comunicar();
             cachorro.comunicar();
+            
+            CanisLupus canislupus = new Cachorro();
+            Console.WriteLine(canislupus.numDePatas);
         }
     }
 }
