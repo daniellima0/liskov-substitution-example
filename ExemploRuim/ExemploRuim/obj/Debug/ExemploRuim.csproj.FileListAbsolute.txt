@@ -1,0 +1,8 @@
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\bin\Debug\ExemploRuim.exe.config
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\bin\Debug\ExemploRuim.exe
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\bin\Debug\ExemploRuim.pdb
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\obj\Debug\ExemploRuim.csproj.AssemblyReference.cache
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\obj\Debug\ExemploRuim.csproj.SuggestedBindingRedirects.cache
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\obj\Debug\ExemploRuim.csproj.CoreCompileInputs.cache
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\obj\Debug\ExemploRuim.exe
+C:\Users\danli\source\repos\ExemploRuim\ExemploRuim\obj\Debug\ExemploRuim.pdb

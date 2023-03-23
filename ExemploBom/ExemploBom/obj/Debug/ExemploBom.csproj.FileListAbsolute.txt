@@ -1,0 +1,8 @@
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\bin\Debug\ExemploBom.exe.config
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\bin\Debug\ExemploBom.exe
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\bin\Debug\ExemploBom.pdb
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\obj\Debug\ExemploBom.csproj.AssemblyReference.cache
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\obj\Debug\ExemploBom.csproj.SuggestedBindingRedirects.cache
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\obj\Debug\ExemploBom.csproj.CoreCompileInputs.cache
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\obj\Debug\ExemploBom.exe
+C:\Users\danli\source\repos\ExemploBom\ExemploBom\obj\Debug\ExemploBom.pdb
